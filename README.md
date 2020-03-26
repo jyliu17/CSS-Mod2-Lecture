@@ -74,7 +74,7 @@ property: value; <!--declaration-->
 
 - HTML tags/elements - Least specific
 - Classes
-  - `.class-name`
+  - `.class-name` (Stack Classes)
 - Ids - Most specific
   - `#id-name`
 
