@@ -2,12 +2,13 @@
 
 ## Objectives
 
-- Discuss what CSS does and why it's important
+- Discuss what CSS does and why it's important (show css dissable)
 - Cover the basics of HTML
 - Differentiate between inline, internal, and external stylesheets
 - Demonstrate the anatomy of a declaration block
 - Understand how to use class, id, and element selectors, and selector order of importance
 - Demonstrate the use of the box model
+- Chrome Tools
 - Demonstrate the use of CSS grid in page layout
 - Introduce CSS Frameworks like Bootstrap and Semantic UI
 
@@ -72,9 +73,9 @@ property: value; <!--declaration-->
 
 ## Three Main Types of CSS Selectors
 
-- HTML tags/elements - Least specific
+- HTML tags/elements - Least specific (stack html selectors)
 - Classes
-  - `.class-name` (Stack Classes)
+  - `.class-name` (stack Classes)
 - Ids - Most specific
   - `#id-name`
 
