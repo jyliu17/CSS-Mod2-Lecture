@@ -3,3 +3,67 @@
 /* How can I give all images of a class a max-width? */
 
 /* How can I give just a single image a max-width? */
+
+ul#nav li {
+  display: inline-block;
+  padding: 15px;
+  margin: 0px 10px 0px 10px;
+}
+
+ul#nav li:hover {
+  background-color: plum;
+}
+
+#nav {
+  background-color: lightblue;
+  margin-top: 0px;
+}
+
+h1 {
+  margin-bottom: 0px;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+#banner {
+  background-image: url("https://www.opml.co.uk/files/Blog/Images/ocean-banner.png");
+  min-height: 300px;
+  line-height: 300px;
+  font-size: 3rem;
+  text-align: center;
+  margin-bottom: 0px;
+}
+
+#container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.tile {
+  max-width: 300px;
+  margin-bottom: 15px;
+  padding: 15px;
+  border: 1px solid black;
+}
+
+
+
+#third {
+  max-width: 5%;
+}
+
+.main-img {
+  max-width: 15%;
+}
+
+.second {
+  max-width: 30%;
+}
+
+
+
