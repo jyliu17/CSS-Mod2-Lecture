@@ -4,66 +4,55 @@
 
 /* How can I give just a single image a max-width? */
 
-ul#nav li {
-  display: inline-block;
-  padding: 15px;
-  margin: 0px 10px 0px 10px;
+/* #photo-two {
+  height: 300px;
 }
 
-ul#nav li:hover {
-  background-color: plum;
-}
+.photo {
+  height: 150px;
+} */
 
-#nav {
-  background-color: lightblue;
-  margin-top: 0px;
-}
-
-h1 {
-  margin-bottom: 0px;
-}
-
-a {
-  text-decoration: none;
-  color: black;
-}
-
-#banner {
-  background-image: url("https://www.opml.co.uk/files/Blog/Images/ocean-banner.png");
-  min-height: 300px;
-  line-height: 300px;
-  font-size: 3rem;
-  text-align: center;
-  margin-bottom: 0px;
-}
-
-#container {
-  display: flex;
-  flex-wrap: wrap;
-  flex-direction: row;
-  justify-content: space-evenly;
-}
-
-.tile {
-  max-width: 300px;
-  margin-bottom: 15px;
-  padding: 15px;
+/* ul, li {
   border: 1px solid black;
+} */
+
+ul.nav {
+ height: 40px;
+ line-height: 40px;
+ width: 90%;
+ border-radius: 25px;
+ margin: 0px auto;
+ background-color: darkgrey;
 }
 
 
 
-#third {
-  max-width: 5%;
+li {
+  display: inline;
+  margin: 0px 20px;
+  padding: 11px 5px;
 }
 
-.main-img {
-  max-width: 15%;
+li:hover {
+  background-color: blueviolet;
+  transition-duration: 2s;
 }
 
-.second {
-  max-width: 30%;
+.index-container {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around
+}
+
+.index-tile {
+  background-color: lightgrey;
+  margin: 15px;
+  padding: 15px;
+  border-radius: 25px;
+  text-align: center;
 }
 
 
-
+.index-photo {
+  height: 150px;
+}

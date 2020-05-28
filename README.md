@@ -9,7 +9,7 @@
 - Understand how to use class, id, and element selectors, and selector order of importance
 - Demonstrate the use of the box model
 - Chrome Tools
-- Demonstrate the use of CSS grid in page layout
+- Demonstrate the use of CSS grid or Flexbox in page layout
 - Introduce CSS Frameworks like Bootstrap and Semantic UI
 
 ## CSS Basics
@@ -149,11 +149,13 @@ You can style your website very quickly by using a framework, but there are some
 [Semantic UI](https://semantic-ui.com/)
 [Bootstrap](https://getbootstrap.com/)  
 [Materialize](https://materializecss.com/)
+[Tailwinds](https://tailwindcss.com/)
 
 ## Resources
 
 [Awwwards](https://www.awwwards.com/)  
 [codrops](https://tympanus.net/codrops/css_reference/) - Fantastic resource for all things CSS  
+[CodePen](https://codepen.io/) - Great interactive examples of HTML CSS and JS code
 [w3schools](https://www.w3schools.com/html/default.asp) - Great HTML resource  
 [w3schools](https://www.w3schools.com/html/html_elements.asp) - Great CSS resource  
 [CSS Tricks](https://css-tricks.com/) - The best resource for learning and understanding flexbox and grid  
@@ -162,3 +164,4 @@ You can style your website very quickly by using a framework, but there are some
 [CSS Zen Garden](http://www.csszengarden.com/) - Great examples of some rock solid CSS experiences  
 [Flexbox Froggy](https://flexboxfroggy.com/) - THE BEST way to learn flex  
 [CSS Grid Garden](http://cssgridgarden.com/) - THE BEST way to learn grid
+[Coolors](https://coolors.co/) - Great for picking colors
