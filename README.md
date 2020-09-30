@@ -151,7 +151,7 @@ You can style your website very quickly by using a framework, but there are some
 
 ## Resources
 
-[Awwwards](https://www.awwwards.com/)  
+[Awwwards](https://www.awwwards.com/) - For inspiration 
 [codrops](https://tympanus.net/codrops/css_reference/) - Fantastic resource for all things CSS  
 [w3schools](https://www.w3schools.com/html/default.asp) - Great HTML resource  
 [w3schools](https://www.w3schools.com/html/html_elements.asp) - Great CSS resource  
@@ -161,3 +161,5 @@ You can style your website very quickly by using a framework, but there are some
 [CSS Zen Garden](http://www.csszengarden.com/) - Great examples of some rock solid CSS experiences  
 [Flexbox Froggy](https://flexboxfroggy.com/) - THE BEST way to learn flex  
 [CSS Grid Garden](http://cssgridgarden.com/) - THE BEST way to learn grid
+[Code Pen](https://codepen.io/) - code examples with code sandbox
+[CSS Grid Generator](https://cssgrid-generator.netlify.app/) - Awesome tool to implement css grid quickly 
