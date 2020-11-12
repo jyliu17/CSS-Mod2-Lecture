@@ -3,3 +3,47 @@
 /* How can I give all images of a class a max-width? */
 
 /* How can I give just a single image a max-width? */
+
+
+/* * {
+  border: 1px solid black
+} */
+
+ul.nav {
+  background-color: lightgray;
+}
+
+ul.nav li {
+  display: inline-block;
+  padding: 10px;
+  margin: 0px 5px;
+}
+
+ul.nav li:hover {
+  background-color: aqua;
+  border-radius: 25px;
+  transition: 2s;
+}
+
+.container {
+  border: 1px solid brown;
+  display: flex;
+  max-width: 70%;
+  margin: 0px auto;
+
+  flex-flow: row wrap;
+  justify-content: space-around;
+}
+
+.tile {
+  border: 1px solid teal;
+  background-color: teal;
+  padding: 10px;
+  text-align: center;
+  margin: 10px 0px;
+}
+
+
+.index-img {
+  max-width: 150px;
+}

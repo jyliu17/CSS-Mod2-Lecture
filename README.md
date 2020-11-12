@@ -14,7 +14,7 @@
 ## CSS Basics
 
 What does CSS mean?  
-Cascading Stylesheets
+- cascading style sheets
 
 Why do we use it?
 Makes the internet look pretty
