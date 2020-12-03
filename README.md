@@ -17,7 +17,8 @@ What does CSS mean?
 Cascading Stylesheets
 
 Why do we use it?
-Makes the internet look pretty
+- Makes the internet look pretty
+- User Experience
 
 ## The Good, the Bad and the Ugly
 
@@ -163,3 +164,4 @@ You can style your website very quickly by using a framework, but there are some
 [CSS Grid Garden](http://cssgridgarden.com/) - THE BEST way to learn grid
 [Code Pen](https://codepen.io/) - code examples with code sandbox
 [CSS Grid Generator](https://cssgrid-generator.netlify.app/) - Awesome tool to implement css grid quickly 
+[CSS Dinner](https://flukeout.github.io/) - Fun game for getting good at targeting specific html elements
